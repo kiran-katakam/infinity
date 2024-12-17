@@ -100,8 +100,8 @@ This Flutter-based application simplifies the login process for our college WiFi
 
 ## Contributors
 This project was a collaborative effort:
-- **You**: Just Wrote the Code.
-- **Tarun**: Developed the algorithm to generate all possible login variations and contributed to identifying the loophole.
+- **You**: Just Wrote the Code and contributed to find the loophole.
+- **Tarun**: Developed the algorithm to generate all possible login variations,  and contributed to identifying the loophole.
 
 ---
 
