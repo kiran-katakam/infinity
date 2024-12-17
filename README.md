@@ -1,4 +1,10 @@
-# College WiFi Auto-Login App
+# College WiFi Auto-Login App **Infinity9**
+
+## Note
+
+This is the final implementation of app there are some works going on so app might not work as expected
+- **Future Updates**
+   - Will add textfeilds for user input
 
 This Flutter-based application simplifies the login process for our college WiFi network by bypassing unnecessary manual logouts and re-logins. Designed for **Android** and **iOS**, the app leverages a known loophole to provide seamless and automatic connectivity to the college network.
 
@@ -43,8 +49,8 @@ This Flutter-based application simplifies the login process for our college WiFi
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-link>
-   cd college-wifi-login
+   git clone https://github.com/kiran-katakam/infinity.git
+   cd infinity
    ```
 
 2. **Install Dependencies**:
@@ -103,6 +109,3 @@ This project was a collaborative effort:
 This application is intended for educational purposes only and should be used responsibly. Any misuse or violation of university policies is strictly the user's responsibility.
 
 ---
-
-## License
-[MIT License](LICENSE)
