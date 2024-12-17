@@ -81,7 +81,7 @@ This Flutter-based application simplifies the login process for our college WiFi
 
 ## Dependencies
 - `http`: To send network requests
-- `flutter_secure_storage`: Secure storage for sensitive data
+- `Shared Preferences`: Secure storage for sensitive data
 - `WebView`: To show the user whats going on
 
 ---
@@ -95,7 +95,6 @@ This Flutter-based application simplifies the login process for our college WiFi
 ---
 
 ## Security Notes
-- User credentials are stored securely using `flutter_secure_storage`.
 - The loophole exploits a **server-side oversight** and bypasses client-side validation through JavaScript injection. Please use responsibly and ethically.
 
 ---
@@ -104,6 +103,7 @@ This Flutter-based application simplifies the login process for our college WiFi
 This project was a collaborative effort:
 - **You**: Just Wrote the Code and contributed to find the loophole.
 - **Tarun**: Developed the algorithm to generate all possible login variations,  and contributed to identifying the loophole.
+  - github ``https://github.com/tarun-ainampudi``
 
 ---
 
