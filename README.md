@@ -2,7 +2,7 @@
 
 ## Note
 
-**Exclive for VIT-AP University**
+**Exclusive for VIT-AP University**
 
 This is the final implementation of app. App Icon Will be added
 - **Future Updates**
