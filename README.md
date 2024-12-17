@@ -2,7 +2,9 @@
 
 ## Note
 
-This is the final implementation of app there are some works going on so app might not work as expected
+**Exclive for VIT-AP University**
+
+This is the final implementation of app. App Icon Will be added
 - **Future Updates**
    - Will add textfeilds for user input
 
